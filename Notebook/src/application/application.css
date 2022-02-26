@@ -1,0 +1,8 @@
+.root{
+	/*colour variables */
+	-fx-backcol: #0E131F;
+	-fx-forecol: #707078;
+	-fx-selcol: #A9CBB7;
+	-fx-txtcol: #EFECCA;
+	-fx-acccol: #F7FF58;
+}
